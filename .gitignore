@@ -1,0 +1,8 @@
+/target/
+/tomcat-base/log/
+/.settings/
+/build/
+/catalina.base_IS_UNDEFINED/
+/.classpath
+/.project
+/velocity.log
